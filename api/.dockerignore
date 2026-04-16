@@ -1,0 +1,18 @@
+# Fichiers python compilés
+__pycache__/
+*.pyc
+*.pyo
+
+#Fichiers de Logs
+*.log
+# Fichiers de configuration de l'environnement local
+.env
+# Repertoire Git 
+.git
+.gitignore
+#Ficchiers systeme
+.DS_Store
+#Cache pip ou venv
+venv/
+.venv/
+pip-wheel-metadata/
